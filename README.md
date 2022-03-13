@@ -1,6 +1,6 @@
-# instagram
+# fluttergram
 
-A new Flutter project.
+flutterfire 테스트용
 
 ## Getting Started
 
