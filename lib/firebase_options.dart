@@ -38,29 +38,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA7ccLDIy1oHJhyyc8eSwSPzUIJAhV4SRc',
-    appId: '1:325590282420:web:64218a79b346c8940fa7e1',
+    apiKey: 'AIzaSyA7ccLDIy1oHJh',
+    appId: '1:325590282420:web:64218a79b346c',
     messagingSenderId: '325590282420',
-    projectId: 'fluttergram-8e839',
-    authDomain: 'fluttergram-8e839.firebaseapp.com',
-    storageBucket: 'fluttergram-8e839.appspot.com',
+    projectId: 'fluttergram',
+    authDomain: 'fluttergram.firebaseapp.com',
+    storageBucket: 'fluttergram.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD2LU6R51jVDNwX7luDRn44MwyoEeefoYo',
-    appId: '1:325590282420:android:ae3757e5d5048e120fa7e1',
+    apiKey: 'AIzaSyD2LU6R51jVDN',
+    appId: '1:325590282420:android:',
     messagingSenderId: '325590282420',
-    projectId: 'fluttergram-8e839',
-    storageBucket: 'fluttergram-8e839.appspot.com',
+    projectId: 'fluttergram',
+    storageBucket: 'fluttergram.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBcYtgWo0gQPPiTljuzitdUuIbXPKHGW4U',
-    appId: '1:325590282420:ios:766b5b99e6cee6d10fa7e1',
+    apiKey: 'AIzaSyBcYtgWo0gQPPi',
+    appId: '1:325590282420:ios:766',
     messagingSenderId: '325590282420',
-    projectId: 'fluttergram-8e839',
-    storageBucket: 'fluttergram-8e839.appspot.com',
-    iosClientId: '325590282420-mifei6m136v0re27q6q1dl553sjkqpf2.apps.googleusercontent.com',
+    projectId: 'fluttergram',
+    storageBucket: 'fluttergram.appspot.com',
+    iosClientId: '32559028242.apps.googleusercontent.com',
     iosBundleId: 'com.codingapple.instagram',
   );
 }
